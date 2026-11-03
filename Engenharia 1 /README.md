@@ -1,10 +1,11 @@
+# Atividades de Engenharia de Software
 
 ## 1ª Atividade — Comentários sobre trecho do livro: Software Engineering at Google: Lessons Learned from Programming Over Time
 
 > *"What precisely do we mean by software engineering? What distinguishes “software engineering” from “programming” or “computer science”? And why would Google have a unique perspective to add to the corpus of previous software engineering literature written over the past 50 years? The terms “programming” and “software engineering” have been used interchangeably for quite some time in our industry, although each term has a different emphasis and different implications. University students tend to study computer science and get jobs writing code as “programmers.” “Software engineering,” however, sounds more serious, as if it implies the application of some theoretical knowledge to build something real and precise. Mechanical engineers, civil engineers, aeronautical engineers, and those in other engineering disciplines all practice engineering. They all work in the real world and use the application of their theoretical knowledge to create something real. Software engineers also create “something real,” though it is less tangible than the things other engineers create. Unlike those more established engineering professions, current software engineering theory or practice is not nearly as rigorous. Aeronautical engineers must follow rigid guidelines and practices, because errors in their calculations can cause real damage; programming, on the whole, has traditionally not followed such rigorous practices. But, as software becomes more integrated into our lives, we must adopt and rely on more rigorous engineering methods. We hope this book helps others see a path toward more reliable software practices."*
 
 ### Meu Comentário
-A computação, especificamente o desenvolvimento de sistemas, não é regulamentada como as engenharias tradicionais, ondem existem normas, leis e conselhos reguladores da profissão, como o CREA, porém não é porque ela não é regulamentada que não precise e não existam boas práticas, como ter processos bem estabelecidos e ter uma boa base de conhecimento teórico para desenvolver as soluções em tecnologia. No meu entendimento, a necessidade de existirem métodos de organização e de entrega na área da tecnologia faz com que o nome “engenharia” entre no nome dos cargos das pessoas que trabalham com computação. Pois entregar trabalhos tecnológicos nunca será apenas sobre desenvolver tecnicamente uma solução, e sim sobre ter métricas e parâmetros exatos bem estabelecidos para o a solução sempre estar preparada para qualquer tipo de mudança ou imprevisto. 
+A computação, especificamente o desenvolvimento de sistemas, não é regulamentada como as engenharias tradicionais, onde existem normas, leis e conselhos reguladores da profissão, como o CREA, porém não é porque ela não é regulamentada que não precise e não existam boas práticas, como ter processos bem estabelecidos e ter uma boa base de conhecimento teórico para desenvolver as soluções em tecnologia. No meu entendimento, a necessidade de existirem métodos de organização e de entrega na área da tecnologia faz com que o nome “engenharia” entre no nome dos cargos das pessoas que trabalham com computação. Pois entregar trabalhos tecnológicos nunca será apenas sobre desenvolver tecnicamente uma solução, e sim sobre ter métricas e parâmetros exatos bem estabelecidos para o a solução sempre estar preparada para qualquer tipo de mudança ou imprevisto. 
 
 ---
 
@@ -18,3 +19,15 @@ A computação, especificamente o desenvolvimento de sistemas, não é regulamen
 
 ### Meu Comentário
 O autor do livro destaca neste trecho que, o engenheiro de software não é responsável unicamente em desenvolve apenas o código, mas sim desenvolve e pensa nas soluções desenvolvidas em todas as suas etapas e fases, ressalta como esta padronização do desenvolvimento é importante, já que existem diversas situações dentro das organizações, onde, ter um sistema que tenha uma fácil manutenção, escalonamento e padronização de funcionamento é essencial para o bom funcionamento do software. Pensar engenharia nunca será apenas sobre uma coisa só, não apenas código feito ou uma função específica, e sim ser uma solução robusta e útil.
+
+---
+
+## 3ª Atividade — Três Trade-offs em Engenharia de Software
+
+No contexto do desenvolvimento de software, decisões arquiteturais e de processo exigem escolhas conscientes conhecidas como trade-offs, onde otimizar um aspecto geralmente cobra um preço em outro. O primeiro grande trade-off envolve a velocidade de entrega em comparação com a qualidade do código. Entregar uma funcionalidade rapidamente ao mercado atende a uma demanda imediata do negócio, mas frequentemente exige atalhos no código que geram débito técnico, o que acaba encarecendo a manutenção futura. O segundo trade-off lida com a consistência de dados em oposição à escalabilidade e disponibilidade. Garantir transações fortemente consistentes em bancos de dados relacionais limita a escalabilidade horizontal distribuída, enquanto adotar modelos de consistência eventual melhora a performance em larga escala, embora introduza complexidade na sincronização dos dados. Por fim, o terceiro trade-off ocorre entre o desenvolvimento interno e o uso de ferramentas de terceiros. Construir uma ferramenta do zero garante controle absoluto sobre os requisitos específicos, porém consome tempo e recursos preciosos, ao passo que utilizar soluções prontas acelera o projeto, mas impõe limitações de customização e dependências externas.
+
+---
+
+## 4ª Atividade — Minhas Contribuições com a API do Projeto
+
+Durante o desenvolvimento do projeto da
