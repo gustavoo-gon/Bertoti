@@ -30,4 +30,10 @@ No contexto do desenvolvimento de software, decisões arquiteturais e de process
 
 ## 4ª Atividade — Minhas Contribuições com a API do Projeto
 
-Durante o desenvolvimento do projeto da
+Durante o desenvolvimento do projeto da API, que foi integrada ao Telegram, Pandas e inteligência artificial local, minhas principais entregas e contribuições práticas foram divididas em duas frentes principais. A primeira tarefa que realizei consistiu em desenvolver uma função em Python utilizando a biblioteca Pandas que recebia um DataFrame processado com os dados contratuais e devolvia esses dados estruturados em formato CSV. A segunda tarefa que implementei foi a lógica de integração com o chat do Telegram, de modo que, se a pessoa fizesse o pedido no chat, o sistema processava a solicitação, consultava a base e retornava uma planilha contendo os contratos vencidos diretamente na conversa.
+
+---
+
+## 5ª Atividade — Habilidades Desenvolvidas com as Contribuições na API
+
+A participação prática no desenvolvimento e na integração da API proporcionou um grande salto de aprendizado em várias frentes. Eu aprendi a debater ideias técnicas de forma fundamentada e a saber discutir escolhas de implementação com a equipe. Além disso, desenvolvi a habilidade de ser autodidata para aprender sobre programação e sobre as bibliotecas utilizadas no projeto, buscando soluções por conta própria quando surgiam desafios. Por fim, também aprendi a ser autodidata para entender a metodologia ágil, compreendendo na prática como organizar o fluxo de trabalho, gerenciar tarefas e colaborar de maneira eficiente no projeto.
